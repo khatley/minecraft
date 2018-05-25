@@ -1,0 +1,8 @@
+1. DNS
+2. Dynamic Routing Tables
+3. OSI look alike
+4. IP addressing software
+5. ISP Server Configuration
+6. Web Server to respond to request for app
+7. Development of applications to use OSI model
+8. Package and automate as much as possible
